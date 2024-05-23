@@ -1,5 +1,5 @@
 # hello-world
-# Just adding my 2 cents here
+
 This is my test repository
 
 old South Austin hippie that has an old hippie Boston Terrier named Giggles
